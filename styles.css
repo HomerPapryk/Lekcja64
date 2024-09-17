@@ -12,13 +12,13 @@ body {
   text-align: center;
 }
 
-#startInterval {
+.start-button {
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
 }
 
-#counter {
+.counter {
   margin-top: 20px;
   font-size: 48px;
   font-weight: bold;
